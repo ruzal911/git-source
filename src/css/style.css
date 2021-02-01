@@ -1,5 +1,28 @@
-h1{
-	background-color: red;
-	width: 100px;
-	display: inline; 		
+/*color*/
+.container {
+  background-color: red;
+}
+/*html{
+	font-size: 10px;
+	}*/
+section {
+  padding: 10rem 0;
+}
+col-md-4 {
+  height: 50px;
+  background-color: red;
+}
+col-md-3 {
+  height: 50px;
+  background-color: blue;
+}
+offset-md-4 {
+  height: 50px;
+  background-color: orange;
+}
+.btn {
+  background-color: blue;
+  color: red;
+  button: none;
+  border-radius: 12px;
 }
